@@ -1,0 +1,26 @@
+{
+  "name": "user_managment",
+  "version": "1.0.0",
+  "description": "Nodejs express + mysql user managment crud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8fn/user_managment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/8fn/user_managment/issues"
+  },
+  "homepage": "https://github.com/8fn/user_managment#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.6",
+    "mysql": "^2.18.1"
+  }
+}
